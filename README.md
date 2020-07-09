@@ -10,8 +10,7 @@ a faster http Basic Authentication brute forcer , written with Go
 
 # Install
 ```
-▶ go get -u github.com/yasserjanah/BasicAuthBruteForcer
-
+$ go get -u github.com/yasserjanah/BasicAuthBruteForcer
 ```
 # Usage
 ```
