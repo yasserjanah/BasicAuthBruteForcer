@@ -1,6 +1,8 @@
 # BasicAuthBruteForcer
 a faster http Basic Authentication brute forcer , written with Go
 
+there is a similar simple script written with python ![HERE](https://github.com/yasserjanah/HTTPAuthCracker)
+
 ```
     [+] AUTOR:        Yasser Janah
     [+] GITHUB:       https://github.com/yasserjanah
