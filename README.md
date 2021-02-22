@@ -6,8 +6,8 @@ there is a similar simple script written with python [Here](https://github.com/y
 ```
     [+] AUTOR:        Yasser Janah
     [+] GITHUB:       https://github.com/yasserjanah
-    [+] TWITTER:      https://twitter.com/yasser_janah
-    [+] FACEBOOK:     https://fb.com/yasser.janah
+    [+] TWITTER:      https://twitter.com/th3x0ne
+    [+] FACEBOOK:     https://fb.com/yasser.janah0
 ```
 
 # Install
